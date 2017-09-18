@@ -59,7 +59,8 @@ main {
       margin-top: 0; } }
 
 .hero {
-  min-height: 60vh;
+  height: 60vh;
+  max-height: 20rem;
   display: flex;
   align-items: center;
   justify-content: center;
