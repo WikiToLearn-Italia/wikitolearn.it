@@ -64,7 +64,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(http://via.placeholder.com/1280x720) no-repeat center center;
+  background: url(bg1.jpg) no-repeat center center;
   background-size: cover; }
   .hero__content {
     text-align: center;
