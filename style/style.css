@@ -64,7 +64,8 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/12313939_849677798486870_9155106132714278822_n.png?oh=bce012545ef9a9024c422d4c653d067f&oe=5A88D73E) no-repeat center center;
+  /* background: url(https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/12313939_849677798486870_9155106132714278822_n.png?oh=bce012545ef9a9024c422d4c653d067f&oe=5A88D73E) no-repeat center center; */
+  background-color: #99ee99;
   background-size: cover; }
   .hero__content {
     text-align: center;
