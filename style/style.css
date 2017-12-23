@@ -64,8 +64,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(http://via.placeholder.com/1280x720) no-repeat center center;
-  background-size: cover; }
+  background-color: #88dd88; }
   .hero__content {
     text-align: center;
     color: white;
